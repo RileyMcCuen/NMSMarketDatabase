@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2c3c1216b6ba51f3b1956185c755f6b",
+    "revision": "0178d9606bd4b6ac6853f6fcb205465c",
     "url": "/NMSMarketDatabase/index.html"
   },
   {
-    "revision": "e9d4bacf573654598cfd",
+    "revision": "2d36a278fffb0843ee13",
     "url": "/NMSMarketDatabase/static/css/main.b24b4d4e.chunk.css"
   },
   {
-    "revision": "cca923bf838e9b1ffc5c",
-    "url": "/NMSMarketDatabase/static/js/2.67c7b3fc.chunk.js"
+    "revision": "13e1e18747a34b8a1be8",
+    "url": "/NMSMarketDatabase/static/js/2.80270c3d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/NMSMarketDatabase/static/js/2.67c7b3fc.chunk.js.LICENSE.txt"
+    "url": "/NMSMarketDatabase/static/js/2.80270c3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9d4bacf573654598cfd",
-    "url": "/NMSMarketDatabase/static/js/main.da860da7.chunk.js"
+    "revision": "2d36a278fffb0843ee13",
+    "url": "/NMSMarketDatabase/static/js/main.960f52c0.chunk.js"
   },
   {
-    "revision": "ae6737f7f01d40037274",
-    "url": "/NMSMarketDatabase/static/js/runtime-main.d5081f5b.js"
+    "revision": "d02ca11a5100c13f4b80",
+    "url": "/NMSMarketDatabase/static/js/runtime-main.de89ce9a.js"
   },
   {
     "revision": "3c152434134c9eceb0cb9e1fff50812d",
