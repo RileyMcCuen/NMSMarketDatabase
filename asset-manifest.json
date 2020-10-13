@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3532f3fb.chunk.css",
-    "main.js": "/static/js/main.4b9e29b8.chunk.js",
-    "main.js.map": "/static/js/main.4b9e29b8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b40e28e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b40e28e2.js.map",
-    "static/js/2.67c7b3fc.chunk.js": "/static/js/2.67c7b3fc.chunk.js",
-    "static/js/2.67c7b3fc.chunk.js.map": "/static/js/2.67c7b3fc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.176ec1961b4f30279bc2eeadb1d4275a.js": "/precache-manifest.176ec1961b4f30279bc2eeadb1d4275a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3532f3fb.chunk.css.map": "/static/css/main.3532f3fb.chunk.css.map",
-    "static/js/2.67c7b3fc.chunk.js.LICENSE.txt": "/static/js/2.67c7b3fc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Geo-Regular.a850b28e.ttf"
+    "main.css": "/NMSMarketDatabase/static/css/main.b24b4d4e.chunk.css",
+    "main.js": "/NMSMarketDatabase/static/js/main.da860da7.chunk.js",
+    "main.js.map": "/NMSMarketDatabase/static/js/main.da860da7.chunk.js.map",
+    "runtime-main.js": "/NMSMarketDatabase/static/js/runtime-main.d5081f5b.js",
+    "runtime-main.js.map": "/NMSMarketDatabase/static/js/runtime-main.d5081f5b.js.map",
+    "static/js/2.67c7b3fc.chunk.js": "/NMSMarketDatabase/static/js/2.67c7b3fc.chunk.js",
+    "static/js/2.67c7b3fc.chunk.js.map": "/NMSMarketDatabase/static/js/2.67c7b3fc.chunk.js.map",
+    "index.html": "/NMSMarketDatabase/index.html",
+    "precache-manifest.b1c6e617aab5205e7ba8d942f9cddf3b.js": "/NMSMarketDatabase/precache-manifest.b1c6e617aab5205e7ba8d942f9cddf3b.js",
+    "service-worker.js": "/NMSMarketDatabase/service-worker.js",
+    "static/css/main.b24b4d4e.chunk.css.map": "/NMSMarketDatabase/static/css/main.b24b4d4e.chunk.css.map",
+    "static/js/2.67c7b3fc.chunk.js.LICENSE.txt": "/NMSMarketDatabase/static/js/2.67c7b3fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NMSMarketDatabase/static/media/Geo-Regular.a850b28e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b40e28e2.js",
+    "static/js/runtime-main.d5081f5b.js",
     "static/js/2.67c7b3fc.chunk.js",
-    "static/css/main.3532f3fb.chunk.css",
-    "static/js/main.4b9e29b8.chunk.js"
+    "static/css/main.b24b4d4e.chunk.css",
+    "static/js/main.da860da7.chunk.js"
   ]
 }
